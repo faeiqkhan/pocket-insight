@@ -190,11 +190,3 @@ Check `src/integrations/supabase/client.ts` for exact variable names used by the
 
 Migrations:
 - See `supabase/migrations/` for SQL files. Apply them in your Supabase project.
-
-
-If you want, I can also:
-- generate a `.env.example` and add it to the repo;
-- add `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`;
-- expand any section into its own markdown document (architecture.md, deployment.md, API.md).
-
-Tell me which of these you'd like next.
